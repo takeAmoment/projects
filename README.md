@@ -6,4 +6,4 @@
 * Learned OOP: [online-store](https://rolling-scopes-school.github.io/takeamoment-JSFE2022Q1/online-store/);
 * Creating a game: [memory-game](https://takeamoment.github.io/memory-game/memory-game/), [tie-tac-toe](https://rolling-scopes-school.github.io/takeamoment-JSFEPRESCHOOL/tic-tac-toe/);
 * Created web application using React.js, Redux: [school project](https://rolling-scopes-school.github.io/takeamoment-REACT2022Q3/), [to-do-list](https://takeamoment.github.io/Todo-list-React-/);
-* Worked in team: [teamber](https://teamber.netlify.app/), [rsLang](https://rslang-igorpex.netlify.app/#/)
+* Worked in team: [teamber](https://github.com/romababok/project-management-app/pull/21), [rsLang](https://github.com/igorpex/rslang/pull/12)
